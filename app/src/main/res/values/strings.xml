@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BingoTry</string>
+    <string name="search_rooms">Search Rooms</string>
+    <string name="add_room">Add Room</string>
+    <string name="add_new_room">Add New Room</string>
+    <string name="place_your_numbers">Place Your Numbers...</string>
+    <string name="your_turn">Your Turn</string>
+    <string name="op_turn">Opponents Turn</string>
+</resources>
